@@ -1,14 +1,19 @@
 # Campi in erba sintetica negli oratori — Indice dei documenti
 
-Comunità Pastorale Santa Caterina – Besana in Brianza · aggiornato al 17/10/2026
+Comunità Pastorale Santa Caterina – Besana in Brianza · 18/10/2026
 
-## Analisi
+## ▶ Da dove partire: la presentazione
+
+**[Apri la presentazione](<2026-10-18_presentazione_campi-sintetici.html>)** (`2026-10-18_presentazione_campi-sintetici.html`)
+
+Poche slide con il quadro completo: le due ASDO, quanto costano i progetti, come si possono finanziare, le incoerenze dei piani, cosa dicono i numeri, cosa chiedere alle ASDO e le decisioni da prendere. Si apre nel browser.
+
+## Approfondimenti
 
 | File | Contenuto |
 |---|---|
-| [2026 10 17 relazione campi sintetici.docx](<2026 10 17 relazione campi sintetici.docx>) | Relazione per la Diaconia sulle proposte dell'ASDO S.Caterina e dell'ASDO Villa Raverio: le ASDO, i costi, i finanziamenti, la tenuta dei piani, le incoerenze, le decisioni da prendere e le richieste alle ASDO |
-| [2026-10-17_presentazione_campi-sintetici.pdf](<2026-10-17_presentazione_campi-sintetici.pdf>) | Presentazione di sintesi, in PDF |
-| [2026-10-17_presentazione_campi-sintetici.html](<2026-10-17_presentazione_campi-sintetici.html>) | La stessa presentazione, da aprire nel browser |
+| [2026 10 18 relazione campi sintetici.docx](<2026 10 18 relazione campi sintetici.docx>) | Relazione per la Diaconia: lo stesso quadro della presentazione, più esteso, con le richieste alle ASDO |
+| [2026-10-18_presentazione_campi-sintetici.pdf](<2026-10-18_presentazione_campi-sintetici.pdf>) | La presentazione in PDF, da stampare o inoltrare |
 
 ## Materiale ricevuto dalle ASDO
 
