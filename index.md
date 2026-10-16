@@ -6,7 +6,7 @@ Comunità Pastorale Santa Caterina – Besana in Brianza · 18/10/2026
 
 **[Apri la presentazione](<2026-10-18_presentazione_campi-sintetici.html>)** (`2026-10-18_presentazione_campi-sintetici.html`)
 
-Poche slide con il quadro completo: le due ASDO, quanto costano i progetti, come si possono finanziare, le incoerenze dei piani, cosa dicono i numeri, cosa chiedere alle ASDO e le decisioni da prendere. Si apre nel browser.
+Poche slide con il quadro sintetico: si apre nel browser.
 
 ## Approfondimenti
 
