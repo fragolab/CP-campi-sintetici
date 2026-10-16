@@ -1,0 +1,18 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+// Tabelle a tutta larghezza con colonne di pari dimensione
+.markdown-body table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  width: 50%;
+  vertical-align: top;
+  overflow-wrap: anywhere; // spezza i nomi di file lunghi senza spazi
+}

@@ -5,6 +5,11 @@
 !.gitignore
 !index.md
 
+# Foglio di stile del sito GitHub Pages (tabelle a colonne uguali)
+!assets/
+!assets/css/
+!assets/css/style.scss
+
 # Documenti da condividere
 !2026 10 18 relazione campi sintetici.docx
 !2026-10-18_presentazione_campi-sintetici.html
